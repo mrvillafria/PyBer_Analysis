@@ -11,6 +11,8 @@ The purpose of this week's analysis was to perform an exploratory analysis for P
 #### Ride-Sharing Summary by City Type
 ![ride_sharing_summary](/analysis/ride_sharing_summary.PNG)
 
+The Ride-Sharing Summary by City Type visualization above quickly presents the total number of rides, total number of drivers, total number of fares, average fare per ride, and average fare per driver by city type from our PyBer data. The three different city types for this analysis are Rural, Suburban, and Urban. By looking at this chart, we can see that there are more Rural and Suburban rides in relation to how many drivers there are. For Rural and Suburban cities, although there are less rides than the number of rides for Urban cities, there is a demand for drivers. Because there is a demand for more drivers, this may be the cause for the higher average fares for the driver. For Urban cities, their supply of drivers exceeds the number of rides. Drivers have lower average fares in Urban cities because they may not be giving as many rides because of the excess of other drivers. It is also possible that their rides may be shorter in distance due to the proximity of places for city living.
+
 #### Total Fare by City Type
 ![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
