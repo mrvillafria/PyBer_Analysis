@@ -8,4 +8,10 @@ The purpose of this week's analysis was to perform an exploratory analysis for P
 
 ## Results
 
+#### Ride-Sharing Summary by City Type
+![ride_sharing_summary](/analysis/ride_sharing_summary.PNG)
+
+#### Total Fare by City Type
+![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
+
 ## Summary
