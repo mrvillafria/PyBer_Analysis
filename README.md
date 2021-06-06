@@ -22,6 +22,6 @@ The Total Fare by City Type multiple-line graph shows the total weekly fares for
 
 The graph information was based on this chart that calculated and displayed the sum of the fares for each week.
 
-![PyBer_pivot](/analysis/PyBer_fare_summarypivot.PNG)
+![PyBer_pivot](/analysis/PyBer_pivot.PNG)
 
 ## Summary
